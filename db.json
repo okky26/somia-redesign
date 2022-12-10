@@ -1,0 +1,188 @@
+{
+    "projects" : [
+        {
+            "name" : "Residential",
+            "info" : [
+                {
+                    "name" : "Mandanila House",
+                    "architect" : "Somia Design",
+                    "designer" : ["Widiadnyana", "Gerry Surbakti"],
+                    "location": "Renon, Denpasar, Bali, Indonesia",
+                    "landArea" : "317 sqm",
+                    "floorArea" : "154 sqm",
+                    "year" : "2017",
+                    "interior" : "Somia Design",
+                    "photographs" : "Mario Wibowo",
+                    "cover" : "./assets/residential/mandanila/mandanila.jpg",
+                    "asset" : ["./assets/residential/mandanila/mandanila-2.jpg","./assets/residential/mandanila/mandanila-3.jpg","./assets/residential/mandanila/mandanila-4.jpg","./assets/residential/mandanila/mandanila-5.jpg","./assets/residential/mandanila/mandanila-6.jpg","./assets/residential/mandanila/mandanila-7.jpg","./assets/residential/mandanila/mandanila-8.jpg","./assets/residential/mandanila/mandanila-9.jpg"]
+                },
+                {
+                    "name" : "Sujiva Residences",
+                    "architect" : "Somia Design",
+                    "designer" : ["Widiadnyana", "Gerry Surbakti"],
+                    "location": "Renon, Denpasar, Bali, Indonesia",
+                    "landArea" : "317 sqm",
+                    "floorArea" : "154 sqm",
+                    "year" : "2017",
+                    "interior" : "Somia Design",
+                    "photographs" : "Mario Wibowo",
+                    "cover" : "./assets/residential/sujiva/sujiva.jpg",
+                    "asset" : ["./assets/residential/mandanila/mandanila-2.jpg","./assets/residential/mandanila/mandanila-3.jpg","./assets/residential/mandanila/mandanila-4.jpg","./assets/residential/mandanila/mandanila-5.jpg","./assets/residential/mandanila/mandanila-6.jpg","./assets/residential/mandanila/mandanila-7.jpg","./assets/residential/mandanila/mandanila-8.jpg","./assets/residential/mandanila/mandanila-9.jpg"]
+                },
+                {
+                    "name" : "Sujiva Living",
+                    "architect" : "Somia Design",
+                    "designer" : ["Widiadnyana", "Gerry Surbakti"],
+                    "location": "Renon, Denpasar, Bali, Indonesia",
+                    "landArea" : "317 sqm",
+                    "floorArea" : "154 sqm",
+                    "year" : "2017",
+                    "interior" : "Somia Design",
+                    "photographs" : "Mario Wibowo",
+                    "cover" : "./assets/residential/sujiva-living/living.jpg",
+                    "asset" : ["./assets/residential/mandanila/mandanila-2.jpg","./assets/residential/mandanila/mandanila-3.jpg","./assets/residential/mandanila/mandanila-4.jpg","./assets/residential/mandanila/mandanila-5.jpg","./assets/residential/mandanila/mandanila-6.jpg","./assets/residential/mandanila/mandanila-7.jpg","./assets/residential/mandanila/mandanila-8.jpg","./assets/residential/mandanila/mandanila-9.jpg"]
+                },
+                {
+                    "name" : "Suksema Villa",
+                    "architect" : "Somia Design",
+                    "designer" : ["Widiadnyana", "Gerry Surbakti"],
+                    "location": "Renon, Denpasar, Bali, Indonesia",
+                    "landArea" : "317 sqm",
+                    "floorArea" : "154 sqm",
+                    "year" : "2017",
+                    "interior" : "Somia Design",
+                    "photographs" : "Mario Wibowo",
+                    "cover" : "./assets/residential/suksema/suksema.jpg",
+                    "asset" : ["./assets/residential/mandanila/mandanila-2.jpg","./assets/residential/mandanila/mandanila-3.jpg","./assets/residential/mandanila/mandanila-4.jpg","./assets/residential/mandanila/mandanila-5.jpg","./assets/residential/mandanila/mandanila-6.jpg","./assets/residential/mandanila/mandanila-7.jpg","./assets/residential/mandanila/mandanila-8.jpg","./assets/residential/mandanila/mandanila-9.jpg"]
+                },
+                {
+                    "name" : "Svastaka House",
+                    "architect" : "Somia Design",
+                    "designer" : ["Widiadnyana", "Gerry Surbakti"],
+                    "location": "Renon, Denpasar, Bali, Indonesia",
+                    "landArea" : "317 sqm",
+                    "floorArea" : "154 sqm",
+                    "year" : "2017",
+                    "interior" : "Somia Design",
+                    "photographs" : "Mario Wibowo",
+                    "cover" : "./assets/residential/svastaka/svastaka.jpg",
+                    "asset" : ["./assets/residential/mandanila/mandanila-2.jpg","./assets/residential/mandanila/mandanila-3.jpg","./assets/residential/mandanila/mandanila-4.jpg","./assets/residential/mandanila/mandanila-5.jpg","./assets/residential/mandanila/mandanila-6.jpg","./assets/residential/mandanila/mandanila-7.jpg","./assets/residential/mandanila/mandanila-8.jpg","./assets/residential/mandanila/mandanila-9.jpg"]
+                }
+            ]
+        },
+        {
+            "name" : "Hospitality",
+            "info" : [
+                {
+                    "name" : "Kaliage Resort",
+                    "architect" : "Somia Design",
+                    "designer" : ["Widiadnyana", "Gerry Surbakti"],
+                    "location": "Renon, Denpasar, Bali, Indonesia",
+                    "landArea" : "317 sqm",
+                    "floorArea" : "154 sqm",
+                    "year" : "2017",
+                    "interior" : "Somia Design",
+                    "photographs" : "Mario Wibowo",
+                    "cover" : "./assets/hospitality/kaliage/cover.jpg",
+                    "asset" : ["./assets/residential/mandanila/mandanila-2.jpg","./assets/residential/mandanila/mandanila-3.jpg","./assets/residential/mandanila/mandanila-4.jpg","./assets/residential/mandanila/mandanila-5.jpg","./assets/residential/mandanila/mandanila-6.jpg","./assets/residential/mandanila/mandanila-7.jpg","./assets/residential/mandanila/mandanila-8.jpg","./assets/residential/mandanila/mandanila-9.jpg"]
+                },
+                {
+                    "name" : "Lembeh Resort",
+                    "architect" : "Somia Design",
+                    "designer" : ["Widiadnyana", "Gerry Surbakti"],
+                    "location": "Renon, Denpasar, Bali, Indonesia",
+                    "landArea" : "317 sqm",
+                    "floorArea" : "154 sqm",
+                    "year" : "2017",
+                    "interior" : "Somia Design",
+                    "photographs" : "Mario Wibowo",
+                    "cover" : "./assets/hospitality/lembeh/cover.jpg",
+                    "asset" : ["./assets/residential/mandanila/mandanila-2.jpg","./assets/residential/mandanila/mandanila-3.jpg","./assets/residential/mandanila/mandanila-4.jpg","./assets/residential/mandanila/mandanila-5.jpg","./assets/residential/mandanila/mandanila-6.jpg","./assets/residential/mandanila/mandanila-7.jpg","./assets/residential/mandanila/mandanila-8.jpg","./assets/residential/mandanila/mandanila-9.jpg"]
+                },
+                {
+                    "name" : "Mojo Resort",
+                    "architect" : "Somia Design",
+                    "designer" : ["Widiadnyana", "Gerry Surbakti"],
+                    "location": "Renon, Denpasar, Bali, Indonesia",
+                    "landArea" : "317 sqm",
+                    "floorArea" : "154 sqm",
+                    "year" : "2017",
+                    "interior" : "Somia Design",
+                    "photographs" : "Mario Wibowo",
+                    "cover" : "./assets/hospitality/kaliage/cover.jpg",
+                    "asset" : ["./assets/residential/mandanila/mandanila-2.jpg","./assets/residential/mandanila/mandanila-3.jpg","./assets/residential/mandanila/mandanila-4.jpg","./assets/residential/mandanila/mandanila-5.jpg","./assets/residential/mandanila/mandanila-6.jpg","./assets/residential/mandanila/mandanila-7.jpg","./assets/residential/mandanila/mandanila-8.jpg","./assets/residential/mandanila/mandanila-9.jpg"]
+                },
+                {
+                    "name" : "Talaud Resort",
+                    "architect" : "Somia Design",
+                    "designer" : ["Widiadnyana", "Gerry Surbakti"],
+                    "location": "Renon, Denpasar, Bali, Indonesia",
+                    "landArea" : "317 sqm",
+                    "floorArea" : "154 sqm",
+                    "year" : "2017",
+                    "interior" : "Somia Design",
+                    "photographs" : "Mario Wibowo",
+                    "cover" : "./assets/hospitality/resort/cover.jpg",
+                    "asset" : ["./assets/residential/mandanila/mandanila-2.jpg","./assets/residential/mandanila/mandanila-3.jpg","./assets/residential/mandanila/mandanila-4.jpg","./assets/residential/mandanila/mandanila-5.jpg","./assets/residential/mandanila/mandanila-6.jpg","./assets/residential/mandanila/mandanila-7.jpg","./assets/residential/mandanila/mandanila-8.jpg","./assets/residential/mandanila/mandanila-9.jpg"]
+                },
+                {
+                    "name" : "Samadhi Resort",
+                    "architect" : "Somia Design",
+                    "designer" : ["Widiadnyana", "Gerry Surbakti"],
+                    "location": "Renon, Denpasar, Bali, Indonesia",
+                    "landArea" : "317 sqm",
+                    "floorArea" : "154 sqm",
+                    "year" : "2017",
+                    "interior" : "Somia Design",
+                    "photographs" : "Mario Wibowo",
+                    "cover" : "./assets/hospitality/samadhi/cover.jpg",
+                    "asset" : ["./assets/residential/mandanila/mandanila-2.jpg","./assets/residential/mandanila/mandanila-3.jpg","./assets/residential/mandanila/mandanila-4.jpg","./assets/residential/mandanila/mandanila-5.jpg","./assets/residential/mandanila/mandanila-6.jpg","./assets/residential/mandanila/mandanila-7.jpg","./assets/residential/mandanila/mandanila-8.jpg","./assets/residential/mandanila/mandanila-9.jpg"]
+                },
+                {
+                    "name" : "Sebali",
+                    "architect" : "Somia Design",
+                    "designer" : ["Widiadnyana", "Gerry Surbakti"],
+                    "location": "Renon, Denpasar, Bali, Indonesia",
+                    "landArea" : "317 sqm",
+                    "floorArea" : "154 sqm",
+                    "year" : "2017",
+                    "interior" : "Somia Design",
+                    "photographs" : "Mario Wibowo",
+                    "cover" : "./assets/hospitality/sebali/cover.jpg",
+                    "asset" : ["./assets/residential/mandanila/mandanila-2.jpg","./assets/residential/mandanila/mandanila-3.jpg","./assets/residential/mandanila/mandanila-4.jpg","./assets/residential/mandanila/mandanila-5.jpg","./assets/residential/mandanila/mandanila-6.jpg","./assets/residential/mandanila/mandanila-7.jpg","./assets/residential/mandanila/mandanila-8.jpg","./assets/residential/mandanila/mandanila-9.jpg"]
+                },
+                {
+                    "name" : "Talaud 4 Star Hotel",
+                    "architect" : "Somia Design",
+                    "designer" : ["Widiadnyana", "Gerry Surbakti"],
+                    "location": "Renon, Denpasar, Bali, Indonesia",
+                    "landArea" : "317 sqm",
+                    "floorArea" : "154 sqm",
+                    "year" : "2017",
+                    "interior" : "Somia Design",
+                    "photographs" : "Mario Wibowo",
+                    "cover" : "./assets/hospitality/talaud/cover.jpg",
+                    "asset" : ["./assets/residential/mandanila/mandanila-2.jpg","./assets/residential/mandanila/mandanila-3.jpg","./assets/residential/mandanila/mandanila-4.jpg","./assets/residential/mandanila/mandanila-5.jpg","./assets/residential/mandanila/mandanila-6.jpg","./assets/residential/mandanila/mandanila-7.jpg","./assets/residential/mandanila/mandanila-8.jpg","./assets/residential/mandanila/mandanila-9.jpg"]
+                }
+            ]
+        },
+        {
+            "name" : "Commercial",
+            "info" : [
+                {
+                    "name" : "Krisna Convention Center",
+                    "architect" : "Somia Design",
+                    "designer" : ["Widiadnyana", "Gerry Surbakti"],
+                    "location": "Renon, Denpasar, Bali, Indonesia",
+                    "landArea" : "317 sqm",
+                    "floorArea" : "154 sqm",
+                    "year" : "2017",
+                    "interior" : "Somia Design",
+                    "photographs" : "Mario Wibowo",
+                    "cover" : "./assets/commercial/kirisna/cover.jpg",
+                    "asset" : ["./assets/residential/mandanila/mandanila-2.jpg","./assets/residential/mandanila/mandanila-3.jpg","./assets/residential/mandanila/mandanila-4.jpg","./assets/residential/mandanila/mandanila-5.jpg","./assets/residential/mandanila/mandanila-6.jpg","./assets/residential/mandanila/mandanila-7.jpg","./assets/residential/mandanila/mandanila-8.jpg","./assets/residential/mandanila/mandanila-9.jpg"]
+                }
+            ]
+        }
+    ]
+}
